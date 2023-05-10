@@ -1,0 +1,27 @@
+.card-text {
+    text-align: center;
+    font-size: 50px;
+}
+
+.card-group {
+    width: 400px;
+    border-radius: 50px;
+}
+
+body {
+    align-items: center;
+    text-align: center;
+}
+
+#board {
+    align-items: center;
+    text-align: center; 
+}
+
+.card {
+    height: 50px;
+    width: 50px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    display: inline-block;
+}
